@@ -1,0 +1,74 @@
+\documentclass[letter,12pt]{article}
+
+\include{cv-commands}
+
+\begin{document}
+
+\header
+{Gao Mengya}
+{46922547@qq.com \\ (+86)132-0755-0072}
+{Tianjin University\\
+Yaguan Road\\
+Jinnan District, Tianjin}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{statementblock}{Job Objective}
+
+Hope to work as a software engineering intern in Google.
+\bigskip
+\end{statementblock}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{resumeblock}{Education}
+
+\resumeitem{Bachelor of Studies}
+{{Software Engineering}, Sept. 2013 - June 2016(Expected), {Tianjin University}
+{Average Score: 92.506},{GPA:3.88}  { Rank: 1 / 110}
+}
+
+\end{resumeblock}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{resumeblock}{Skills}
+ 
+\resumeitem{Knowledge}{Algorithm and Data Structure\experiencemost, Computer Network\experiencemid, Machine Learning\experiencelow.}
+
+\resumeitem{Language}{Java\experiencemost, C++\experiencemost, Python\experiencemid}
+
+\end{resumeblock}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{resumeblock}{Awards}
+
+
+\resumeitem{October 2015}{National Scholarship}
+\resumeitem{October 2014}{National Scholarship}
+\resumeitem{October 2015}{Outstanding Student for science and technology in Tianjin University}
+\resumeitem{December 2015}{Bronze Medal,the 40th ACM-ICPC Asia EC-Final}
+\resumeitem{November 2015}{Second Prize,the 40th ACM-ICPC Asia Regional Contest Hanoi Site }
+\resumeitem{November 2015 }{Bronze Medal,the 40th ACM-ICPC Asia Regional Contest Shenyang Site}
+\resumeitem{November 2014 }{Best Women’s team,the 39th Asia Regional Contest An’shan Site}
+\resumeitem{November 2014}{Outstanding Student in Software Engineering Academy of Tianjin University     
+Skills}
+\end{resumeblock}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{resumeblock}{Projects}
+
+\resumeitem{Picture Matching}{A leisure game,using Java FX}
+
+\resumeitem{SIGNATURE}{An APP for Android to check the students' security,using Android}
+
+\resumeitem{photo processing}{A program can recognize Human-face and make it beautiful,using MATLAB and OpenCV}
+
+\end{resumeblock}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\end{document}

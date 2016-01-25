@@ -1,0 +1,76 @@
+\documentclass[letter,12pt]{article}
+
+\include{cv-commands}
+
+\begin{document}
+
+\header
+{Yang WenTao}
+{durandal@tju.edu.cn \\ (+86)151-2280-1687}
+{Tianjin University\\
+Yaguan Road\\
+Jinnan District, Tianjin}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{statementblock}{Job Objective}
+
+I hope I can have the opportunity to work in Google as a software engineer.
+\bigskip
+\end{statementblock}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{resumeblock}{Education}
+
+\resumeitem{Bachelor of Studies}
+{{Software Engineering}, Sept. 2013 - June 2016(Expected), {Tianjin University}
+{Average Score: 82.2},{GPA:3.18}  { Rank: 44 / 110}
+}
+
+\end{resumeblock}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{resumeblock}{Skills}
+ 
+\resumeitem{Knowledge}{Algorithm and Data Structure\experiencemost, Android Development\experiencemid, Digital Image Processing\experiencelow.}
+
+\resumeitem{Language}{C++/C\experiencemost, Java\experiencemid, Python\experiencelow}
+
+\resumeitem{TOOLS}{GNU/Linux\experiencemost, Vim\experiencemid, Intellij IDEA\experiencemid}
+
+
+\end{resumeblock}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{resumeblock}{Awards}
+
+
+\resumeitem{NOVEMBER 2015}{Bronze Medal, the 40th ACM-ICPC Asia Regional Contest ShenYang Site}
+
+\resumeitem{SEPTEMBER 2015}{Silver Medal, the 1st China Collegiate Programming Contest}
+
+\resumeitem{OCTOBER 2014}{Bronze Medal, the 39th ACM-ICPC Asia Regional Contest Xi'an Site}
+
+\resumeitem{OCTOBER 2015}{the outstanding student for science and technology in TianJin University}
+
+\end{resumeblock}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{resumeblock}{Projects}
+
+\resumeitem{Picture Matching}{A leisure game,using Java FX}
+
+\resumeitem{SIGNATURE}{An APP for Android to check the students' security,using Android}
+
+\resumeitem{photo processing}{A program can recognize the face and make face beautiful,using MATLAB and OpenCV}
+
+\end{resumeblock}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\end{document}
